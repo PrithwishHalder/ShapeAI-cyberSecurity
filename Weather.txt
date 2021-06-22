@@ -1,0 +1,15 @@
+Current Weather Report : 
+------------------------------------
+
+Location : Guwahati
+Weather : MIST
+Time : 22 Jun 2021 | 07:47:52 PM
+
+Current Temperature : 26.95 °C 
+Min Temperature : 26.95 °C 
+Min Temperature : 26.95 °C 
+
+Current Weather Description : MIST 
+Humidity : 83 % 
+Pressure : 1002 mb 
+Current Wind Speed : 0 kmph
